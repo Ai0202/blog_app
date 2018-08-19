@@ -1,2 +1,2 @@
 <?php
-dd(2);
+dd($posts);
